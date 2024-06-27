@@ -23,3 +23,4 @@ add sonic06menu/data001/stf/rf20.dat
 add shadowmenu/data001/stf/rf20.dat
 add knightwind/data001/st6/r600.dat
 add fightknight/data001/st6/r600.dat
+add mod.ini
