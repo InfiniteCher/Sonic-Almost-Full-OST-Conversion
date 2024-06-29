@@ -1,0 +1,267 @@
+{
+   "Groups": [
+      {
+         "Name": "main",
+         "DisplayName": "Select your songs of preference",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Revengence With A Vengence",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "Menu",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "shadowmenu"
+            },
+			{
+               "Name": "IncludeDir2",
+               "DisplayName": "A Stranger I Remain",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "R01",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "supersonicracing"
+
+            },
+			{
+               "Name": "IncludeDir3",
+               "DisplayName": "The Only Thing I Know For Real (R-06)",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "R06",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "throughthefire"
+            },                   
+			{
+               "Name": "IncludeDir4",
+               "DisplayName": "It Has To Be This Way",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "R07",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "hisworld"
+            },                   
+			{
+               "Name": "IncludeDir5",
+               "DisplayName": "The War Still Rages Within",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "Ending",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "lightofhope"
+            }
+         ]
+      },
+      {
+         "Name": "Main",
+         "DisplayName": "Miscellaneous",
+         "Elements": [
+       {
+          "Name": "IncludeDir6",
+          "DisplayName": "Custom Title Screen Logo",
+          "Description": [
+            "Choose if you want the custom title logo or not.
+
+Made by Gaming with Portals."
+          ],
+          "Type": "Logo",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "customtitlescreen"
+
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "Menu": 
+	  [
+
+         {
+            "DisplayName": "Shadow The Hedgehog Title Screen",
+            "Value": "shadowmenu",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Zero Gravity Title Screen",
+            "Value": "zerogravmenu",
+            "Description": [
+               "",
+
+            ]
+         },
+
+         {
+            "DisplayName": "Sonic 06 Title Screen",
+            "Value": "sonic06menu",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "World Adventure",
+            "Value": "worldadvmenu",
+            "Description": [
+               "",
+
+             ]
+         },
+
+         {
+            "DisplayName": "SADX Title Screen",
+            "Value": "sadxmenu",
+            "Description": [
+               "",
+
+            ]
+         },
+
+         {
+            "DisplayName": "SA2 Main Riff",
+            "Value": "sa2riff",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+          "R01": 
+	  [
+
+         {
+            "DisplayName": "Super Sonic Racing",
+            "Value": "supersonicracing",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "With Me",
+            "Value": "withmemistral",
+            "Description": [
+               "",
+            ]
+
+         },
+
+         {
+            "DisplayName": "Open Your Heart (Sonic Generations Ver.)",
+            "Value": "openurheartgens",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+
+	  "R06": 
+	  [
+
+         {
+            "DisplayName": "Through The Fire",
+            "Value": "throughthefire",
+            "Description": [
+               "",
+	    ]
+         },
+
+         {
+            "DisplayName": "Fight The Knight",
+            "Value": "fightknight",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Knight Of The Wind",
+            "Value": "knightwind",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+          "R07": 
+	  [
+
+         {
+            "DisplayName": "His World (Zebrahead Ver.)",
+            "Value": "hisworld",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "I'm Here (Revisited)",
+            "Value": "imhererev",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "With Me",
+            "Value": "withmesenator",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+          "Ending": 
+	  [
+
+         {
+            "DisplayName": "Light Of Hope (Ending Version)",
+            "Value": "lightofhope",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "I’m With You (Vocal Version)",
+            "Value": "imwithyou",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+	  "Logo": 
+	  [
+
+         {
+            "DisplayName": "Enabled",
+            "Value": "customtitlescreen",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Disabled",
+            "Value": "main",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+        	},  
+   "IniFile": "mod.ini"
+}
