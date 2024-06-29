@@ -1,6 +1,6 @@
 ## Sonic Almost-Full OST Conversion WIP-3
-- Added Open Your Heart over Rules Of Nature (R-00)
-- Added Open Your Heart [Live] over Rules Of Nature (DL-01) WIP! Expect bugs.
+- Added Open Your Heart over Rules Of Nature (R-00) WIP! Expect bugs.
+- Added Open Your Heart [Live] over Rules Of Nature (DL-01)
 - Added Through the Fire over The Only Thing I Know For Real (R-06) as a configurable.
 - Added Super Sonic Racing over A Stranger I Remain as a configurable.
 - Added I'm With You (Vocal Version) over The War Still Rages Within as a configurable.
