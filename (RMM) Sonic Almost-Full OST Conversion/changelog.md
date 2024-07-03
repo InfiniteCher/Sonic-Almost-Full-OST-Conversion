@@ -1,3 +1,12 @@
+## Sonic Almost-Full OST Conversion WIP-4
+- Removed Metal City over Return To Ashes (R-03).
+- Added Guardian: SPIDER (Alternate Ver.) over Return To Ashes (In general), I'm just testing stuff! If you want to suggest a song for Dark Skies, Return To Ashes and A Soul Can't Be Cut, ping me in the Discord server! [User: Cher]
+- Adjusted What I'm Made Of volume.
+- Adjusted His World volume.
+- Adjusted This Machine volume and remade it.
+- Fixed R-04 BGM.
+- Fixed the "Revengeance With A Vengeance" name in RMM configuration menu.
+
 ## Sonic Almost-Full OST Conversion WIP-3
 - Added Open Your Heart over Rules Of Nature (R-00) WIP! Expect bugs.
 - Added Open Your Heart [Live] over Rules Of Nature (DL-01)
