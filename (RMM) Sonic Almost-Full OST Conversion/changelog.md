@@ -1,3 +1,14 @@
+## Sonic Almost-Full OST Conversion WIP-5
+- Added This Machine (Gaming With Portals BNK version), now you can choose between GWP's version or mine.
+- Added Sunset Heights over R-00. (Guard Duty)
+- Added Throw It All Away over Dark Skies.
+- Added Kingdom Valley over R-07. (Assassination Attempt)
+- Added Almost Dead over A Soul Can't Be Cut (DL-01)
+- Added Undefeatable over Stains Of Time as a configurable.
+- Added Escape From The City (Generations Modern Remix) over R-05 (Escape From Denver) as a configurable.
+- Fixed I Am All Of Me low quality audio, now it uses an HQ version.
+- Also adjusted I Am All Of Me volume.
+
 ## Sonic Almost-Full OST Conversion WIP-4
 - Removed Metal City over Return To Ashes (R-03).
 - Added Guardian: SPIDER (Alternate Ver.) over Return To Ashes (In general), I'm just testing stuff! If you want to suggest a song for Dark Skies, Return To Ashes and A Soul Can't Be Cut, ping me in the Discord server! [User: Cher]
