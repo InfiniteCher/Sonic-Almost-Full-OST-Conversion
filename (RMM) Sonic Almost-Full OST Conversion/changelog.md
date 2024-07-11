@@ -1,4 +1,17 @@
 ## Sonic Almost-Full OST Conversion WIP-5
+- Added Renzo/Ryxden "Undefeatable for Sundowner Fight" mod, thank you for your permission!
+- Added Dark Gaia Phase 2 over It Has To Be This Way as a configurable.
+- Added Death Egg Robot (Generations Remix) over Collective Consciousness (R-07) as a configurable.
+- Added Vs. Egg Dragoon over Vs. GRAD. (R-02)
+- Added Ares Island 1st Mvt. over Black Sea.
+- Added Ares Island 6th Mvt. over Domestic Scars.
+- Added Chaos Island 1st Mvt. over City Silhoutte.
+- Removed Guardian: SPIDER (Alternate Ver.) over Return To Ashes.
+- Added Crisis City over Return To Ashes.
+- Fixed a game breaking bug in Sam's DLC.
+- Added an Sonic Retexture for Custom Body Blue. (Toggleable)
+
+## Sonic Almost-Full OST Conversion WIP-5
 - Added This Machine (Gaming With Portals BNK version), now you can choose between GWP's version or mine.
 - Added Sunset Heights over R-00. (Guard Duty)
 - Added Throw It All Away over Dark Skies.
