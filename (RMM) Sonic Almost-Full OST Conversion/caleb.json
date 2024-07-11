@@ -1,0 +1,434 @@
+{
+   "Groups": [
+      {
+         "Name": "main",
+         "DisplayName": "Select your songs of preference",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Revengeance With A Vengeance",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "Menu",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "shadowmenu"
+            },
+			{
+               "Name": "IncludeDir2",
+               "DisplayName": "A Stranger I Remain",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "R01",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "supersonicracing"
+   	    },
+			{
+               "Name": "IncludeDir3",
+               "DisplayName": "Stains Of Time",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "R03",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "undefeatablemoonson"
+            },
+			{
+               "Name": "IncludeDir4",
+               "DisplayName": "Red Sun",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "R04",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "thismachinecher"
+	    },
+			{
+               "Name": "IncludeDir5",
+               "DisplayName": "R-05 (Escape From Denver)",
+               "Description": [
+                  "Select a song to replace the entire R-05 BGM.",
+               ],
+               "Type": "R05",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "escapecity"
+            },
+			{
+               "Name": "IncludeDir6",
+               "DisplayName": "The Only Thing I Know For Real (R-06)",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "R06",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "throughthefire"
+            },                   
+			{
+               "Name": "IncludeDir7",
+               "DisplayName": "Collective Consc. / It Has To Be This Way",
+               "Description": [
+                  "Select the songs to replace.",
+               ],
+               "Type": "R07",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "hisworld-whatimadeof"
+            },                   
+			{
+               "Name": "IncludeDir8",
+               "DisplayName": "The War Still Rages Within",
+               "Description": [
+                  "Select a song to replace.",
+               ],
+               "Type": "Ending",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "lightofhope"
+            }
+         ]
+      },
+      {
+         "Name": "Main",
+         "DisplayName": "Miscellaneous",
+         "Elements": [
+       {
+          "Name": "IncludeDir9",
+          "DisplayName": "Custom Title Screen Logo",
+          "Description": [
+            "Choose if you want the custom title logo or not.
+
+Made by Gaming with Portals."
+          ],
+          "Type": "Logo",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "customtitlescreen"
+        },
+                  {
+          "Name": "IncludeDir10",
+          "DisplayName": "Custom Body Sonic ReTexture",
+          "Description": [
+            "Choose if you want the custom body Sonic retexture or not. 
+
+(Replaces Custom Body Blue)"
+          ],
+          "Type": "Texture",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "customretexture"
+         }
+      ]
+    }
+  ],
+   "Enums": {
+
+      "Menu": 
+	  [
+
+         {
+            "DisplayName": "Shadow The Hedgehog Title Screen",
+            "Value": "shadowmenu",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Zero Gravity Title Screen",
+            "Value": "zerogravmenu",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Sonic 06 Title Screen",
+            "Value": "sonic06menu",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "World Adventure",
+            "Value": "worldadvmenu",
+            "Description": [
+               "",
+             ]
+         },
+
+         {
+            "DisplayName": "SADX Title Screen",
+            "Value": "sadxmenu",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "SA2 Main Riff",
+            "Value": "sa2riff",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+          "R01": 
+	  [
+
+         {
+            "DisplayName": "Super Sonic Racing",
+            "Value": "supersonicracing",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "With Me",
+            "Value": "withmemistral",
+            "Description": [
+               "BNK made by Gaming with Portals",
+            ]
+
+         },
+
+         {
+            "DisplayName": "Open Your Heart (Generations Remix)",
+            "Value": "openurheartgens",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+          "R03": 
+	  [
+
+         {
+            "DisplayName": "Undefeatable",
+            "Value": "undefeatablemoonson",
+            "Description": [
+               "",
+            ]
+
+         },
+
+         {
+            "DisplayName": "Live And Learn",
+            "Value": "liveandlearn",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+          "R04": 
+	  [
+
+         {
+            "DisplayName": "This Machine (Cher's Version)",
+            "Value": "thismachinecher",
+            "Description": [
+               "Uses Cher's version of the BNK.",
+            ]
+
+         },
+
+         {
+            "DisplayName": "This Machine (GWP's Version)",
+            "Value": "thismachinegwp",
+            "Description": [
+               "Uses Gaming With Portals version of the BNK.",
+            ]
+
+         },
+
+         {
+            "DisplayName": "Undefeatable",
+            "Value": "undefeatablesundowner",
+            "Description": [
+               "Original mod made by Renzo/Ryxden",
+            ]
+         },		 
+      ],
+          "R05": 
+	  [
+
+         {
+            "DisplayName": "Escape From The City",
+            "Value": "escapecity",
+            "Description": [
+               "",
+            ]
+
+         },
+
+         {
+            "DisplayName": "Escape From The City (Generations Modern Remix)",
+            "Value": "escapecitygens",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+	  "R06": 
+	  [
+
+         {
+            "DisplayName": "Through The Fire",
+            "Value": "throughthefire",
+            "Description": [
+               "",
+	    ]
+         },
+
+         {
+            "DisplayName": "Fight The Knight",
+            "Value": "fightknight",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Knight Of The Wind",
+            "Value": "knightwind",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+          "R07": 
+	  [
+
+         {
+            "DisplayName": "What Im Made Of / His World (Zebrahead Ver.)",
+            "Value": "hisworld-whatimadeof",
+            "Description": [
+               "What I'm Made Of over Collective Consciousness (R-07) and His World (Zebrahead Ver.) over It Has To Be This Way.",
+            ]
+         },
+
+         {
+            "DisplayName": "What Im Made Of / I'm Here (Revisited)",
+            "Value": "imhererev-whatimadeof",
+            "Description": [
+               "What I'm Made Of over Collective Consciousness (R-07) and I'm Here (Revisited) over It Has To Be This Way.",
+            ]
+         },
+
+         {
+            "DisplayName": "What Im Made Of / Dark Gaia Phase 2",
+            "Value": "darkgaiaphase2-whatimadeof",
+            "Description": [
+               "What I'm Made Of over Collective Consciousness (R-07) and Dark Gaia Phase 2 over It Has To Be This Way.",
+            ]
+         },
+
+         {
+            "DisplayName": "What Im Made Of / With Me",
+            "Value": "withmesenator-whatimadeof",
+            "Description": [
+               "What I'm Made Of over Collective Consciousness (R-07) and With Me over It Has To Be This Way.",
+            ]
+         },
+
+         {
+            "DisplayName": "Death Egg Robot / His World (Zebrahead Ver.)",
+            "Value": "hisworld-deathegg",
+            "Description": [
+               "Death Egg Robot (Generations Remix) over Collective Consciousness (R-07) and His World (Zebrahead Ver.) over It Has To Be This Way.",
+            ]
+         },
+
+         {
+            "DisplayName": "Death Egg Robot / I'm Here (Revisited)",
+            "Value": "imhererev-deathegg",
+            "Description": [
+               "Death Egg Robot (Generations Remix) over Collective Consciousness (R-07) and i'm Here (Revisited) over It Has To Be This Way.",
+            ]
+         },
+
+         {
+            "DisplayName": "Death Egg Robot / Dark Gaia Phase 2",
+            "Value": "darkgaiaphase2-deathegg",
+            "Description": [
+               "Death Egg Robot (Generations Remix) over Collective Consciousness (R-07) and Dark Gaia Phase 2 over It Has To Be This Way.",
+            ]
+         },
+
+         {
+            "DisplayName": "Death Egg Robot / With Me",
+            "Value": "withmesenator-deathegg",
+            "Description": [
+               "Death Egg Robot (Generations Remix) over Collective Consciousness (R-07) and With Me over It Has To Be This Way.",
+            ]
+         },		 
+      ],
+          "Ending": 
+	  [
+
+         {
+            "DisplayName": "Light Of Hope (Ending Version)",
+            "Value": "lightofhope",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "I’m With You (Vocal Version)",
+            "Value": "imwithyou",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+	  "Logo": 
+	  [
+
+         {
+            "DisplayName": "Enabled",
+            "Value": "customtitlescreen",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Disabled",
+            "Value": "main",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+          "Texture": 
+	  [
+
+         {
+            "DisplayName": "Enabled",
+            "Value": "customretexture",
+            "Description": [
+               "",
+            ]
+         },
+
+         {
+            "DisplayName": "Disabled",
+            "Value": "main",
+            "Description": [
+               "",
+            ]
+         },		 
+      ],
+        	},  
+   "IniFile": "mod.ini"
+}
