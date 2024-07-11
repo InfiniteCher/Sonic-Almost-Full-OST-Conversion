@@ -1,4 +1,4 @@
-## Sonic Almost-Full OST Conversion WIP-5
+## Sonic Almost-Full OST Conversion WIP-6
 - Added Renzo/Ryxden "Undefeatable for Sundowner Fight" mod, thank you for your permission!
 - Added Dark Gaia Phase 2 over It Has To Be This Way as a configurable.
 - Added Death Egg Robot (Generations Remix) over Collective Consciousness (R-07) as a configurable.
